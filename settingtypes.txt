@@ -1,0 +1,13 @@
+# See: https://dev.minetest.net/settingtypes.txt
+raining_death_waves (Rain death in waves) bool true
+raining_death_clear_objects (Clear objects at the start of each wave) bool true
+raining_death_chat_notifications (Display notifications in chat) bool true
+raining_death_initial_wave_duration () int 30 0 10000
+raining_death_initial_break_duration () int 30 0 10000
+raining_death_initial_difficulty () int 800 1 1000
+raining_death_difficulty_change_per_wave () 10
+raining_death_break_duration_change_per_wave () int 0
+raining_death_wave_duration_change_per_wave () int 1
+raining_death_max_difficulty () int 1000
+raining_death_max_break_duration () int 10000
+raining_death_max_wave_duration () int 10000
